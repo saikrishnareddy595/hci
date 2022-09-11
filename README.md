@@ -1,1 +1,1 @@
-# hci
+# ASL sign language converter
